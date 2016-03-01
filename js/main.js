@@ -3,7 +3,7 @@
 var insects = [
   {
     name: 'And Nest Beetle',
-    image: 'ant-nest-beetle.jpg',
+    img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
     size: [2,20],
     food: {
@@ -14,7 +14,7 @@ var insects = [
   },
   {
     name: 'Dung Beetle',
-    image: 'dung-beetle.jpg',
+    img: 'dung-beetle.jpg',
     family: 'Scarabidae',
     size: [20,30],
     food: {
@@ -25,7 +25,7 @@ var insects = [
   },
   {
     name: 'Stag Beetle',
-    image: 'stag-beetle.jpg',
+    img: 'stag-beetle.jpg',
     family: 'Lucanidae',
     size: [5,120],
     food: {
